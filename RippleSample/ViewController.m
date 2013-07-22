@@ -22,8 +22,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    // small comment for testing git..
-	// Do any additional setup after loading the view, typically from a nib.
+    // Do any additional setup after loading the view, typically from a nib.
     
     self.title=@"Ripple Refresh";
    
